@@ -17,7 +17,7 @@ Argyro Sasli $^\dagger$, Nikos Karnesis $^\ast$
 
 $^\dagger$ University of Minnesota
 
-$^\ast$ Aristotle University of Thessaloniki $\\$
+$^\ast$ Aristotle University of Thessaloniki
 
 (Nov 2025)
 
